@@ -1,0 +1,1 @@
+Este proyecto y/o programa tiene la funcion de poder organizar correctamente la estructura de tus tareas ya sea poniendo y/o modificando datos para la elavolaracion de tus trabajos de una manera eficiente, rapida y sin ningun error fin uwu
